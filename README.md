@@ -79,11 +79,12 @@ This resulted in a more accurate and professional output instead of a generic de
 - (Optional: React / Next.js)  
 
 ---
+## 📂 Project Structure
 <img width="975" height="471" alt="image" src="https://github.com/user-attachments/assets/00319fe8-6b60-4961-a25c-b440f72122cd" />
 <img width="975" height="469" alt="image" src="https://github.com/user-attachments/assets/f1e8a81f-d429-4bcd-b122-eeb85addc8bc" />
 <img width="975" height="475" alt="image" src="https://github.com/user-attachments/assets/9d81c4f4-7fb5-4053-bdf3-1b602cdf350b" />
 <img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/6d4c31d2-679d-4137-8448-ab191de2c0ed" />
 <img width="975" height="470" alt="image" src="https://github.com/user-attachments/assets/17a2e036-3653-4dbf-9fce-4c89e3610343" />
 
-## 📂 Project Structure
+
 
